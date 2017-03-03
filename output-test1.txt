@@ -1,0 +1,16 @@
+(239930, 2405)
+392.994859934 time take to read the dataset
+(2404, 2)
+total number of rows is: 2404
+cms_prescription_counts + provider_variables 2404
+length of column_names_list 2404
+2405
+counts    1.0
+dtype: float64
+2405
+dataframe_main shape is: (239930, 2405)
+Shape of the data is: (239558, 2398)
+156.994539022 time taken for procressing
+66.1898150444 time taken for tfidf
+1.6202018261 timr take fr label encoder
+590.718083143 time takken for NMF

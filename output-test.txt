@@ -1,0 +1,25 @@
+(50, 403)
+0.0743968486786 time take to read the dataset
+(402, 2)
+total number of rows is: 402
+cms_prescription_counts + provider_variables 402
+length of column_names_list 402
+403
+counts    1.0
+dtype: float64
+403
+dataframe_main shape is: (50, 403)
+Shape of the data is: (21, 135)
+0.0521399974823 time taken for procressing
+0.00693202018738 time taken for tfidf
+8.39233398438e-05 timr take fr label encoder
+3.93430709839 time takken for NMF
+XGBClassifier(base_score=0.5, colsample_bylevel=0.5, colsample_bytree=1,
+       gamma=0, learning_rate=0.1, max_delta_step=0, max_depth=3,
+       min_child_weight=1, missing=None, n_estimators=100, nthread=-1,
+       objective='binary:logistic', reg_alpha=0, reg_lambda=1,
+       scale_pos_weight=0.1, seed=42, silent=True, subsample=1)
+1.19209289551e-06 time taken by gridsearchcv.fit
+0.00820899009705 timr take to predict
+Accuracy Rate, which is calculated by accuracy_score() is: 0.600000
+0.0084490776062
